@@ -1,14 +1,20 @@
-# trabalho-final
+Trabalho Final
+Introduçao
+Aqui temos o trabalho final do curso 3.000 talentos TI, onde criamos um programa que organiza suas tarefas, as criando, listando, editando, dando descriçoes e as apgando conforme você as complete.
 
-O nosso programa contém 4 funções :
+//
 
-A primeira faz com que o usuário crie a sua própria tarefa.
+Primeira Funçao: Criar Tarefas - Com esse programa você podera criar suas tarefas, podendo colocar o titúlo que quiserem da forma que quiserem.
 
-A segunda faz com que o usuário consiga ver sua lista de tarefas criada por ele.
+Segunda Funçao: Listar Tarefas - Você também podera listar suas tarefas para poder ver quais ainda faltam para serem feitas, aonde será escrito 'pendente' para as qui ainda estão esperando para serem feitas.
 
-A terceira tem a funcionalidade do usuário poder editar sua tarefa.
+Terceira Funçao: Editar Tarefas - Dentro do programa também será possível editar suas tarefas, caso tenha nomeado ou descrito de forma errada, ou também só queira mudar como quiser.
 
+Quarta Tarefa: Apagar - Será possível apagar tarefas caso desejar.
 
-E a quarta com que o usuário apague sua tarefa.
+Autores Do Trabalho
+Emilly Agatha - Email de contato. emillyagatadasilva@gmail.com
 
-Abaixo das funções temos um loop com que faça que o usuário crie mais de uma tarefa e decida o que ele quer fazer a seguir.
+Pedro Ortiz - Email de contato. pedro.ortiz.ff@gmail.com
+
+Luiza Orquiz - Email de contato. luluorquizchmanski@gmail.com
